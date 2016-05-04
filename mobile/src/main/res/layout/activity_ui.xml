@@ -19,7 +19,7 @@
         android:layout_alignParentLeft="true"
         android:layout_alignParentStart="true"
         android:layout_marginTop="34dp"
-        android:onClick="gotoMoa"/>
+        android:onClick="gotoAlert"/>
 
     <Button
         android:layout_width="wrap_content"
